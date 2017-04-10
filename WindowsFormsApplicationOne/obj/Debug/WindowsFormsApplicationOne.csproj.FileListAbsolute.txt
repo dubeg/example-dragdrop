@@ -1,0 +1,9 @@
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\bin\Debug\WindowsFormsApplicationOne.exe.config
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\bin\Debug\WindowsFormsApplicationOne.exe
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\bin\Debug\WindowsFormsApplicationOne.pdb
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\obj\Debug\WindowsFormsApplicationOne.csprojResolveAssemblyReference.cache
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\obj\Debug\WindowsFormsApplicationOne.Form1.resources
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\obj\Debug\WindowsFormsApplicationOne.Properties.Resources.resources
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\obj\Debug\WindowsFormsApplicationOne.csproj.GenerateResource.Cache
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\obj\Debug\WindowsFormsApplicationOne.exe
+c:\users\guill\documents\visual studio 2015\Projects\WindowsFormsApplicationOne\WindowsFormsApplicationOne\obj\Debug\WindowsFormsApplicationOne.pdb
